@@ -1,0 +1,6 @@
+@NomadNavigator_BE__HostAddress = http://localhost:5202
+
+GET {{NomadNavigator_BE__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
